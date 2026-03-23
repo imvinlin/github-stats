@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 32.06% (2,369,674 bytes)
+## JavaScript — 31.92% (2,369,674 bytes)
 
 - **Vincent-Lin-UF/stockMarketSimulator**: 1,130,796 bytes (47.7%)
 - **Vincent-Lin-UF/templatePortWeb**: 747,624 bytes (31.5%)
@@ -38,33 +38,33 @@
 - **Vincent-Lin-UF/jd-tailor**: 91 bytes (0.0%)
 - **Vincent-Lin-UF/gator-registr**: 81 bytes (0.0%)
 
-## Python — 26.69% (1,972,776 bytes)
+## Python — 27.01% (2,005,564 bytes)
 
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (53.2%)
-- **Vincent-Lin-UF/swarmTrading**: 234,926 bytes (11.9%)
-- **Vincent-Lin-UF/maxgpt**: 118,620 bytes (6.0%)
-- **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.5%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (52.3%)
+- **Vincent-Lin-UF/swarmTrading**: 234,926 bytes (11.7%)
+- **Vincent-Lin-UF/maxgpt**: 118,620 bytes (5.9%)
+- **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.4%)
 - **Vincent-Lin-UF/Gator-Advisor**: 62,000 bytes (3.1%)
-- **sean293/playing-card-object-detection**: 50,963 bytes (2.6%)
-- **Vincent-Lin-UF/playing-card-object-detection**: 48,820 bytes (2.5%)
-- **Vincent-Lin-UF/ad-load-performance-testing**: 40,770 bytes (2.1%)
+- **sean293/playing-card-object-detection**: 50,963 bytes (2.5%)
+- **Vincent-Lin-UF/playing-card-object-detection**: 48,820 bytes (2.4%)
+- **Vincent-Lin-UF/ad-load-performance-testing**: 40,770 bytes (2.0%)
 - **Vincent-Lin-UF/WikiSearch**: 39,554 bytes (2.0%)
+- **Vincent-Lin-UF/playground**: 35,609 bytes (1.8%)
 - **Vincent-Lin-UF/placeGPT**: 31,088 bytes (1.6%)
 - **lazysince87/SASEPass**: 28,463 bytes (1.4%)
 - **Vincent-Lin-UF/github-stats**: 24,055 bytes (1.2%)
 - **Vincent-Lin-UF/robotVoice**: 21,763 bytes (1.1%)
-- **Vincent-Lin-UF/gator-registr**: 18,800 bytes (1.0%)
+- **Vincent-Lin-UF/gator-registr**: 18,800 bytes (0.9%)
 - **usharma123/ResumeReader**: 17,578 bytes (0.9%)
 - **Vincent-Lin-UF/aad-project-m2**: 16,455 bytes (0.8%)
 - **Vincent-Lin-UF/finalSetBro**: 15,495 bytes (0.8%)
 - **Vincent-Lin-UF/patentAnalyze**: 9,246 bytes (0.5%)
-- **Vincent-Lin-UF/ianBot**: 8,905 bytes (0.5%)
+- **Vincent-Lin-UF/ianBot**: 8,905 bytes (0.4%)
 - **Vincent-Lin-UF/zipline_take_home**: 7,883 bytes (0.4%)
 - **Vincent-Lin-UF/torch-template**: 4,086 bytes (0.2%)
 - **Vincent-Lin-UF/davaplopers**: 4,039 bytes (0.2%)
 - **Vincent-Lin-UF/Blue-Note**: 3,778 bytes (0.2%)
 - **Vincent-Lin-UF/backend-hci**: 3,736 bytes (0.2%)
-- **Vincent-Lin-UF/playground**: 2,821 bytes (0.1%)
 - **Antonio-Villarreal/Dyscovery**: 2,725 bytes (0.1%)
 - **Vincent-Lin-UF/compProg**: 2,620 bytes (0.1%)
 - **Antonio-Villarreal/dyslexiaPredictor**: 2,589 bytes (0.1%)
@@ -80,7 +80,7 @@
 - **Vincent-Lin-UF/project_euler**: 389 bytes (0.0%)
 - **Vincent-Lin-UF/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 20.37% (1,505,600 bytes)
+## C++ — 20.28% (1,505,600 bytes)
 
 - **Vincent-Lin-UF/dsaProjects**: 1,359,936 bytes (90.3%)
 - **Vincent-Lin-UF/wad**: 59,746 bytes (4.0%)
@@ -95,7 +95,7 @@
 - **Vincent-Lin-UF/marketdata-pipeline**: 2,698 bytes (0.2%)
 - **Vincent-Lin-UF/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 12.06% (891,043 bytes)
+## TypeScript — 12.00% (891,043 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (35.5%)
 - **Vincent-Lin-UF/UF-SASEHacks-Website**: 224,431 bytes (25.2%)
@@ -112,7 +112,7 @@
 - **Vincent-Lin-UF/jd-tailor**: 893 bytes (0.1%)
 - **Vincent-Lin-UF/youtube-clone**: 250 bytes (0.0%)
 
-## Java — 3.52% (260,390 bytes)
+## Java — 3.51% (260,390 bytes)
 
 - **Vincent-Lin-UF/cop4020**: 250,642 bytes (96.3%)
 - **Vincent-Lin-UF/storage-systems**: 9,748 bytes (3.7%)
@@ -121,12 +121,12 @@
 
 - **Vincent-Lin-UF/atlas**: 126,665 bytes (100.0%)
 
-## Elixir — 1.70% (125,430 bytes)
+## Elixir — 1.69% (125,430 bytes)
 
 - **Vincent-Lin-UF/vincentlin_info**: 62,715 bytes (50.0%)
 - **Vincent-Lin-UF/vincentlin_site**: 62,715 bytes (50.0%)
 
-## Rust — 0.73% (53,767 bytes)
+## Rust — 0.72% (53,767 bytes)
 
 - **Vincent-Lin-UF/ai-native-os**: 51,534 bytes (95.8%)
 - **Vincent-Lin-UF/cerulean**: 916 bytes (1.7%)
@@ -156,14 +156,15 @@
 
 - **Vincent-Lin-UF/esep-webhooks**: 3,221 bytes (100.0%)
 
+## Haskell — 0.04% (2,907 bytes)
+
+- **Vincent-Lin-UF/lambdaLang**: 1,619 bytes (55.7%)
+- **Vincent-Lin-UF/learnHaskell**: 691 bytes (23.8%)
+- **Vincent-Lin-UF/playground**: 597 bytes (20.5%)
+
 ## C — 0.04% (2,617 bytes)
 
 - **Vincent-Lin-UF/os-from-scratch**: 2,617 bytes (100.0%)
-
-## Haskell — 0.03% (2,310 bytes)
-
-- **Vincent-Lin-UF/lambdaLang**: 1,619 bytes (70.1%)
-- **Vincent-Lin-UF/learnHaskell**: 691 bytes (29.9%)
 
 ## CMake — 0.02% (1,550 bytes)
 
