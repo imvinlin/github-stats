@@ -270,6 +270,7 @@ class Stats(object):
         self._forks: Optional[int] = None
         self._total_contributions: Optional[int] = None
         self._languages: Optional[Dict[str, Any]] = None
+        self._lang_repos: Optional[Dict[str, Dict[str, int]]] = None
         self._repos: Optional[Set[str]] = None
         self._lines_changed: Optional[Tuple[int, int]] = None
         self._views: Optional[int] = None
@@ -302,6 +303,7 @@ Languages:
         self._stargazers = 0
         self._forks = 0
         self._languages = dict()
+        self._lang_repos = dict()
         self._repos = set()
 
         exclude_langs_lower = {x.lower() for x in self._exclude_langs}
@@ -340,27 +342,31 @@ Languages:
             for repo in repos:
                 if repo is None:
                     continue
-                name = repo.get("nameWithOwner")
-                if name in self._repos or name in self._exclude_repos:
+                repo_name = repo.get("nameWithOwner")
+                if repo_name in self._repos or repo_name in self._exclude_repos:
                     continue
-                self._repos.add(name)
+                self._repos.add(repo_name)
                 self._stargazers += repo.get("stargazers").get("totalCount", 0)
                 self._forks += repo.get("forkCount", 0)
 
                 for lang in repo.get("languages", {}).get("edges", []):
-                    name = lang.get("node", {}).get("name", "Other")
+                    lang_name = lang.get("node", {}).get("name", "Other")
+                    lang_size = lang.get("size", 0)
                     languages = await self.languages
-                    if name.lower() in exclude_langs_lower:
+                    if lang_name.lower() in exclude_langs_lower:
                         continue
-                    if name in languages:
-                        languages[name]["size"] += lang.get("size", 0)
-                        languages[name]["occurrences"] += 1
+                    if lang_name in languages:
+                        languages[lang_name]["size"] += lang_size
+                        languages[lang_name]["occurrences"] += 1
                     else:
-                        languages[name] = {
-                            "size": lang.get("size", 0),
+                        languages[lang_name] = {
+                            "size": lang_size,
                             "occurrences": 1,
                             "color": lang.get("node", {}).get("color"),
                         }
+                    if lang_name not in self._lang_repos:
+                        self._lang_repos[lang_name] = {}
+                    self._lang_repos[lang_name][repo_name] = lang_size
 
             if owned_repos.get("pageInfo", {}).get(
                 "hasNextPage", False
@@ -423,6 +429,18 @@ Languages:
         await self.get_stats()
         assert self._languages is not None
         return self._languages
+
+    @property
+    async def lang_repos(self) -> Dict[str, Dict[str, int]]:
+        """
+        :return: per-repo size breakdown for each language
+                 e.g. {"Python": {"user/repo1": 50000, "user/repo2": 30000}}
+        """
+        if self._lang_repos is not None:
+            return self._lang_repos
+        await self.get_stats()
+        assert self._lang_repos is not None
+        return self._lang_repos
 
     @property
     async def languages_proportional(self) -> Dict:

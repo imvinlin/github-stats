@@ -88,6 +88,36 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
         f.write(output)
 
 
+async def generate_languages_breakdown(s: Stats) -> None:
+    """
+    Generate a Markdown report showing which repos contribute to each language
+    :param s: Represents user's GitHub statistics
+    """
+    lang_repos = await s.lang_repos
+    languages = await s.languages
+
+    sorted_languages = sorted(
+        languages.items(), reverse=True, key=lambda t: t[1].get("size")
+    )
+
+    lines = ["# Languages Breakdown (By File Size)", ""]
+    for lang, data in sorted_languages:
+        total_size = data.get("size", 0)
+        prop = data.get("prop", 0)
+        lines.append(f"## {lang} — {prop:0.2f}% ({total_size:,} bytes)")
+        lines.append("")
+        repos = lang_repos.get(lang, {})
+        sorted_repos = sorted(repos.items(), reverse=True, key=lambda t: t[1])
+        for repo, size in sorted_repos:
+            pct_of_lang = 100 * size / total_size if total_size > 0 else 0
+            lines.append(f"- **{repo}**: {size:,} bytes ({pct_of_lang:0.1f}%)")
+        lines.append("")
+
+    generate_output_folder()
+    with open("generated/languages_breakdown.md", "w") as f:
+        f.write("\n".join(lines))
+
+
 ################################################################################
 # Main Function
 ################################################################################
@@ -127,7 +157,11 @@ async def main() -> None:
             exclude_langs=excluded_langs,
             ignore_forked_repos=ignore_forked_repos,
         )
-        await asyncio.gather(generate_languages(s), generate_overview(s))
+        await asyncio.gather(
+            generate_languages(s),
+            generate_overview(s),
+            generate_languages_breakdown(s),
+        )
 
 
 if __name__ == "__main__":
