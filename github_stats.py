@@ -436,9 +436,11 @@ Languages:
         :return: per-repo size breakdown for each language
                  e.g. {"Python": {"user/repo1": 50000, "user/repo2": 30000}}
         """
-        if self._lang_repos is not None:
-            return self._lang_repos
-        await self.get_stats()
+        # Use _languages as the sentinel — _lang_repos is set to {} early
+        # in get_stats() before data is populated, so checking it directly
+        # would return an empty dict during concurrent access.
+        if self._languages is None:
+            await self.get_stats()
         assert self._lang_repos is not None
         return self._lang_repos
 
