@@ -1,20 +1,19 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 31.92% (2,369,674 bytes)
+## JavaScript — 30.96% (2,205,792 bytes)
 
-- **Vincent-Lin-UF/stockMarketSimulator**: 1,130,796 bytes (47.7%)
-- **Vincent-Lin-UF/templatePortWeb**: 747,624 bytes (31.5%)
-- **Vincent-Lin-UF/maxgpt**: 163,882 bytes (6.9%)
-- **Vincent-Lin-UF/ad-load-performance-testing**: 76,063 bytes (3.2%)
-- **Vincent-Lin-UF/sweProject**: 54,839 bytes (2.3%)
-- **Antonio-Villarreal/Dyscovery**: 46,698 bytes (2.0%)
-- **Vincent-Lin-UF/Blue-Note**: 37,454 bytes (1.6%)
+- **Vincent-Lin-UF/stockMarketSimulator**: 1,130,796 bytes (51.3%)
+- **Vincent-Lin-UF/templatePortWeb**: 747,624 bytes (33.9%)
+- **Vincent-Lin-UF/ad-load-performance-testing**: 76,063 bytes (3.4%)
+- **Vincent-Lin-UF/sweProject**: 54,839 bytes (2.5%)
+- **Antonio-Villarreal/Dyscovery**: 46,698 bytes (2.1%)
+- **Vincent-Lin-UF/Blue-Note**: 37,454 bytes (1.7%)
 - **Vincent-Lin-UF/cis4930**: 18,352 bytes (0.8%)
 - **Vincent-Lin-UF/saseBoardBot**: 16,536 bytes (0.7%)
-- **lazysince87/SASEPass**: 14,358 bytes (0.6%)
+- **lazysince87/SASEPass**: 14,358 bytes (0.7%)
 - **Antonio-Villarreal/dyslexiaPredictor**: 10,694 bytes (0.5%)
 - **Vincent-Lin-UF/LinCode**: 9,042 bytes (0.4%)
-- **Vincent-Lin-UF/gsap-practice**: 7,818 bytes (0.3%)
+- **Vincent-Lin-UF/gsap-practice**: 7,818 bytes (0.4%)
 - **Vincent-Lin-UF/WikiSearch**: 7,097 bytes (0.3%)
 - **Vincent-Lin-UF/vincentlin-info**: 4,217 bytes (0.2%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 3,845 bytes (0.2%)
@@ -24,7 +23,7 @@
 - **Vincent-Lin-UF/ethics-data-privacy**: 2,213 bytes (0.1%)
 - **Vincent-Lin-UF/STAHKS-discord-bot**: 2,080 bytes (0.1%)
 - **Vincent-Lin-UF/The-Brad-Bot**: 1,200 bytes (0.1%)
-- **Vincent-Lin-UF/saseGuessWhoBoardEdition**: 1,173 bytes (0.0%)
+- **Vincent-Lin-UF/saseGuessWhoBoardEdition**: 1,173 bytes (0.1%)
 - **Vincent-Lin-UF/sase24GuessWho**: 924 bytes (0.0%)
 - **Vincent-Lin-UF/Blind-Brush**: 654 bytes (0.0%)
 - **Vincent-Lin-UF/restaurant**: 654 bytes (0.0%)
@@ -38,28 +37,27 @@
 - **Vincent-Lin-UF/jd-tailor**: 91 bytes (0.0%)
 - **Vincent-Lin-UF/gator-registr**: 81 bytes (0.0%)
 
-## Python — 27.01% (2,005,564 bytes)
+## Python — 26.49% (1,886,944 bytes)
 
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (52.3%)
-- **Vincent-Lin-UF/swarmTrading**: 234,926 bytes (11.7%)
-- **Vincent-Lin-UF/maxgpt**: 118,620 bytes (5.9%)
-- **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.4%)
-- **Vincent-Lin-UF/Gator-Advisor**: 62,000 bytes (3.1%)
-- **sean293/playing-card-object-detection**: 50,963 bytes (2.5%)
-- **Vincent-Lin-UF/playing-card-object-detection**: 48,820 bytes (2.4%)
-- **Vincent-Lin-UF/ad-load-performance-testing**: 40,770 bytes (2.0%)
-- **Vincent-Lin-UF/WikiSearch**: 39,554 bytes (2.0%)
-- **Vincent-Lin-UF/playground**: 35,609 bytes (1.8%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (55.6%)
+- **Vincent-Lin-UF/swarmTrading**: 234,926 bytes (12.5%)
+- **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.7%)
+- **Vincent-Lin-UF/Gator-Advisor**: 62,000 bytes (3.3%)
+- **sean293/playing-card-object-detection**: 50,963 bytes (2.7%)
+- **Vincent-Lin-UF/playing-card-object-detection**: 48,820 bytes (2.6%)
+- **Vincent-Lin-UF/ad-load-performance-testing**: 40,770 bytes (2.2%)
+- **Vincent-Lin-UF/WikiSearch**: 39,554 bytes (2.1%)
+- **Vincent-Lin-UF/playground**: 35,609 bytes (1.9%)
 - **Vincent-Lin-UF/placeGPT**: 31,088 bytes (1.6%)
-- **lazysince87/SASEPass**: 28,463 bytes (1.4%)
-- **Vincent-Lin-UF/github-stats**: 24,055 bytes (1.2%)
-- **Vincent-Lin-UF/robotVoice**: 21,763 bytes (1.1%)
-- **Vincent-Lin-UF/gator-registr**: 18,800 bytes (0.9%)
+- **lazysince87/SASEPass**: 28,463 bytes (1.5%)
+- **Vincent-Lin-UF/github-stats**: 24,055 bytes (1.3%)
+- **Vincent-Lin-UF/robotVoice**: 21,763 bytes (1.2%)
+- **Vincent-Lin-UF/gator-registr**: 18,800 bytes (1.0%)
 - **usharma123/ResumeReader**: 17,578 bytes (0.9%)
-- **Vincent-Lin-UF/aad-project-m2**: 16,455 bytes (0.8%)
+- **Vincent-Lin-UF/aad-project-m2**: 16,455 bytes (0.9%)
 - **Vincent-Lin-UF/finalSetBro**: 15,495 bytes (0.8%)
 - **Vincent-Lin-UF/patentAnalyze**: 9,246 bytes (0.5%)
-- **Vincent-Lin-UF/ianBot**: 8,905 bytes (0.4%)
+- **Vincent-Lin-UF/ianBot**: 8,905 bytes (0.5%)
 - **Vincent-Lin-UF/zipline_take_home**: 7,883 bytes (0.4%)
 - **Vincent-Lin-UF/torch-template**: 4,086 bytes (0.2%)
 - **Vincent-Lin-UF/davaplopers**: 4,039 bytes (0.2%)
@@ -80,7 +78,7 @@
 - **Vincent-Lin-UF/project_euler**: 389 bytes (0.0%)
 - **Vincent-Lin-UF/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 20.28% (1,505,600 bytes)
+## C++ — 21.13% (1,505,600 bytes)
 
 - **Vincent-Lin-UF/dsaProjects**: 1,359,936 bytes (90.3%)
 - **Vincent-Lin-UF/wad**: 59,746 bytes (4.0%)
@@ -95,7 +93,7 @@
 - **Vincent-Lin-UF/marketdata-pipeline**: 2,698 bytes (0.2%)
 - **Vincent-Lin-UF/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 12.00% (891,043 bytes)
+## TypeScript — 12.51% (891,043 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (35.5%)
 - **Vincent-Lin-UF/UF-SASEHacks-Website**: 224,431 bytes (25.2%)
@@ -112,28 +110,28 @@
 - **Vincent-Lin-UF/jd-tailor**: 893 bytes (0.1%)
 - **Vincent-Lin-UF/youtube-clone**: 250 bytes (0.0%)
 
-## Java — 3.51% (260,390 bytes)
+## Java — 3.66% (260,390 bytes)
 
 - **Vincent-Lin-UF/cop4020**: 250,642 bytes (96.3%)
 - **Vincent-Lin-UF/storage-systems**: 9,748 bytes (3.7%)
 
-## Kotlin — 1.71% (126,665 bytes)
+## Kotlin — 1.78% (126,665 bytes)
 
 - **Vincent-Lin-UF/atlas**: 126,665 bytes (100.0%)
 
-## Elixir — 1.69% (125,430 bytes)
+## Elixir — 1.76% (125,430 bytes)
 
 - **Vincent-Lin-UF/vincentlin_info**: 62,715 bytes (50.0%)
 - **Vincent-Lin-UF/vincentlin_site**: 62,715 bytes (50.0%)
 
-## Rust — 0.72% (53,767 bytes)
+## Rust — 0.75% (53,767 bytes)
 
 - **Vincent-Lin-UF/ai-native-os**: 51,534 bytes (95.8%)
 - **Vincent-Lin-UF/cerulean**: 916 bytes (1.7%)
 - **Vincent-Lin-UF/vlinix**: 684 bytes (1.3%)
 - **Vincent-Lin-UF/commit-nudge**: 633 bytes (1.2%)
 
-## Go — 0.52% (38,601 bytes)
+## Go — 0.54% (38,601 bytes)
 
 - **UF-SASE-Web-Team/AI-Advisor**: 15,123 bytes (39.2%)
 - **Vincent-Lin-UF/Gator-Advisor**: 15,123 bytes (39.2%)
@@ -144,15 +142,11 @@
 - **Vincent-Lin-UF/tcp2http-golang**: 794 bytes (2.1%)
 - **Vincent-Lin-UF/lineage-simple-storage**: 74 bytes (0.2%)
 
-## Lua — 0.25% (18,675 bytes)
+## Lua — 0.26% (18,675 bytes)
 
 - **Vincent-Lin-UF/vicctui**: 18,675 bytes (100.0%)
 
-## Handlebars — 0.23% (17,354 bytes)
-
-- **Vincent-Lin-UF/maxgpt**: 17,354 bytes (100.0%)
-
-## C# — 0.04% (3,221 bytes)
+## C# — 0.05% (3,221 bytes)
 
 - **Vincent-Lin-UF/esep-webhooks**: 3,221 bytes (100.0%)
 
