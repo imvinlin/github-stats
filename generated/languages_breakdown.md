@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 31.41% (2,199,508 bytes)
+## JavaScript — 31.42% (2,199,508 bytes)
 
 - **Vincent-Lin-UF/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **Vincent-Lin-UF/templatePortWeb**: 747,624 bytes (34.0%)
@@ -76,7 +76,7 @@
 - **Vincent-Lin-UF/project_euler**: 389 bytes (0.0%)
 - **Vincent-Lin-UF/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 21.50% (1,505,600 bytes)
+## C++ — 21.51% (1,505,600 bytes)
 
 - **Vincent-Lin-UF/dsaProjects**: 1,359,936 bytes (90.3%)
 - **Vincent-Lin-UF/wad**: 59,746 bytes (4.0%)
@@ -152,12 +152,6 @@
 ## C — 0.04% (2,617 bytes)
 
 - **Vincent-Lin-UF/os-from-scratch**: 2,617 bytes (100.0%)
-
-## CMake — 0.02% (1,550 bytes)
-
-- **Vincent-Lin-UF/dsaProjects**: 704 bytes (45.4%)
-- **Vincent-Lin-UF/nanoTorch**: 546 bytes (35.2%)
-- **Vincent-Lin-UF/marketdata-pipeline**: 300 bytes (19.4%)
 
 ## Assembly — 0.01% (953 bytes)
 
