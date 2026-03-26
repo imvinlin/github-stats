@@ -108,10 +108,10 @@
 - **Vincent-Lin-UF/jd-tailor**: 893 bytes (0.1%)
 - **Vincent-Lin-UF/youtube-clone**: 250 bytes (0.0%)
 
-## Java — 3.86% (270,039 bytes)
+## Java — 3.86% (270,177 bytes)
 
 - **Vincent-Lin-UF/cop4020**: 250,642 bytes (92.8%)
-- **Vincent-Lin-UF/storage-systems**: 19,397 bytes (7.2%)
+- **Vincent-Lin-UF/storage-systems**: 19,535 bytes (7.2%)
 
 ## Kotlin — 1.81% (126,665 bytes)
 
