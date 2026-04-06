@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 30.99% (2,200,354 bytes)
+## JavaScript — 30.98% (2,200,354 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (34.0%)
@@ -94,7 +94,7 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 13.65% (969,621 bytes)
+## TypeScript — 13.66% (969,858 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.6%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (23.1%)
@@ -102,7 +102,7 @@
 - **imvinlin/vincentlin-info**: 64,107 bytes (6.6%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (6.1%)
 - **imvinlin/Gator-Advisor**: 47,442 bytes (4.9%)
-- **imvinlin/imvinlin.github.io**: 46,577 bytes (4.8%)
+- **imvinlin/imvinlin.github.io**: 46,814 bytes (4.8%)
 - **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (4.6%)
 - **imvinlin/gator-registr**: 27,421 bytes (2.8%)
 - **imvinlin/restaurant**: 22,310 bytes (2.3%)
