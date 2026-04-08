@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 30.85% (2,200,354 bytes)
+## JavaScript — 30.78% (2,200,354 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (34.0%)
@@ -37,10 +37,10 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## Python — 26.67% (1,901,792 bytes)
+## Python — 26.65% (1,905,387 bytes)
 
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (55.2%)
-- **imvinlin/swarmTrading**: 234,926 bytes (12.4%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (55.1%)
+- **imvinlin/swarmTrading**: 234,926 bytes (12.3%)
 - **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.6%)
 - **imvinlin/Gator-Advisor**: 62,000 bytes (3.3%)
 - **sean293/playing-card-object-detection**: 50,963 bytes (2.7%)
@@ -60,11 +60,11 @@
 - **imvinlin/patentAnalyze**: 9,246 bytes (0.5%)
 - **imvinlin/ianBot**: 8,905 bytes (0.5%)
 - **imvinlin/zipline_take_home**: 7,883 bytes (0.4%)
+- **imvinlin/compProg**: 6,215 bytes (0.3%)
 - **imvinlin/torch-template**: 4,086 bytes (0.2%)
 - **imvinlin/Blue-Note**: 3,778 bytes (0.2%)
 - **imvinlin/backend-hci**: 3,736 bytes (0.2%)
 - **Antonio-Villarreal/Dyscovery**: 2,725 bytes (0.1%)
-- **imvinlin/compProg**: 2,620 bytes (0.1%)
 - **Antonio-Villarreal/dyslexiaPredictor**: 2,589 bytes (0.1%)
 - **MaksimArtemev/COP3502_MaksimArtemev**: 2,146 bytes (0.1%)
 - **AnthonyYao7/shennanigans**: 2,043 bytes (0.1%)
@@ -78,11 +78,11 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 21.14% (1,507,575 bytes)
+## C++ — 21.28% (1,521,028 bytes)
 
-- **imvinlin/dsaProjects**: 1,359,936 bytes (90.2%)
-- **imvinlin/wad**: 59,746 bytes (4.0%)
-- **imvinlin/compProg**: 44,737 bytes (3.0%)
+- **imvinlin/dsaProjects**: 1,359,936 bytes (89.4%)
+- **imvinlin/wad**: 59,746 bytes (3.9%)
+- **imvinlin/compProg**: 58,190 bytes (3.8%)
 - **vinc3ntl1n/torrent**: 16,251 bytes (1.1%)
 - **imvinlin/codeforces**: 4,615 bytes (0.3%)
 - **imvinlin/playground**: 4,184 bytes (0.3%)
@@ -94,7 +94,7 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 13.60% (969,858 bytes)
+## TypeScript — 13.57% (969,858 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.6%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (23.1%)
@@ -113,12 +113,12 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.1%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Java — 3.79% (270,510 bytes)
+## Java — 3.78% (270,510 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (92.7%)
 - **imvinlin/storage-systems**: 19,868 bytes (7.3%)
 
-## Kotlin — 1.78% (126,665 bytes)
+## Kotlin — 1.77% (126,665 bytes)
 
 - **imvinlin/atlas**: 126,665 bytes (100.0%)
 
