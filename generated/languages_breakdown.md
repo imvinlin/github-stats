@@ -94,7 +94,7 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 13.59% (972,449 bytes)
+## TypeScript — 13.59% (972,523 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.5%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (23.1%)
@@ -106,7 +106,7 @@
 - **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (4.6%)
 - **imvinlin/gator-registr**: 27,421 bytes (2.8%)
 - **imvinlin/restaurant**: 22,310 bytes (2.3%)
-- **imvinlin/davaplopers**: 9,847 bytes (1.0%)
+- **imvinlin/davaplopers**: 9,921 bytes (1.0%)
 - **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.7%)
 - **imvinlin/stockMarketSimulator**: 6,023 bytes (0.6%)
 - **imvinlin/Blind-Brush**: 1,004 bytes (0.1%)
