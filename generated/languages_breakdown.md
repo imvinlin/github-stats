@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 30.75% (2,200,354 bytes)
+## JavaScript — 30.69% (2,200,354 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (34.0%)
@@ -37,12 +37,12 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## Python — 26.66% (1,907,311 bytes)
+## Python — 26.67% (1,911,939 bytes)
 
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (55.0%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (54.9%)
 - **imvinlin/swarmTrading**: 234,926 bytes (12.3%)
 - **UF-SASE-Web-Team/AI-Advisor**: 87,833 bytes (4.6%)
-- **imvinlin/Gator-Advisor**: 62,000 bytes (3.3%)
+- **imvinlin/Gator-Advisor**: 62,000 bytes (3.2%)
 - **sean293/playing-card-object-detection**: 50,963 bytes (2.7%)
 - **imvinlin/playing-card-object-detection**: 48,820 bytes (2.6%)
 - **imvinlin/ad-load-performance-testing**: 40,770 bytes (2.1%)
@@ -51,8 +51,8 @@
 - **imvinlin/placeGPT**: 31,088 bytes (1.6%)
 - **lazysince87/SASEPass**: 28,463 bytes (1.5%)
 - **imvinlin/github-stats**: 24,055 bytes (1.3%)
+- **imvinlin/davaplopers**: 23,515 bytes (1.2%)
 - **imvinlin/robotVoice**: 21,763 bytes (1.1%)
-- **imvinlin/davaplopers**: 18,887 bytes (1.0%)
 - **imvinlin/gator-registr**: 18,800 bytes (1.0%)
 - **usharma123/ResumeReader**: 17,578 bytes (0.9%)
 - **imvinlin/aad-project-m2**: 16,455 bytes (0.9%)
@@ -78,7 +78,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 21.28% (1,522,584 bytes)
+## C++ — 21.24% (1,522,584 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (89.3%)
 - **imvinlin/compProg**: 59,746 bytes (3.9%)
@@ -94,26 +94,26 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 13.59% (972,523 bytes)
+## TypeScript — 13.69% (981,223 bytes)
 
-- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.5%)
-- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (23.1%)
-- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (9.8%)
-- **imvinlin/vincentlin-info**: 64,107 bytes (6.6%)
+- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.3%)
+- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (22.9%)
+- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (9.7%)
+- **imvinlin/vincentlin-info**: 64,107 bytes (6.5%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (6.0%)
-- **imvinlin/Gator-Advisor**: 47,442 bytes (4.9%)
+- **imvinlin/Gator-Advisor**: 47,442 bytes (4.8%)
 - **imvinlin/imvinlin.github.io**: 46,814 bytes (4.8%)
 - **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (4.6%)
 - **imvinlin/gator-registr**: 27,421 bytes (2.8%)
 - **imvinlin/restaurant**: 22,310 bytes (2.3%)
-- **imvinlin/davaplopers**: 9,921 bytes (1.0%)
+- **imvinlin/davaplopers**: 18,621 bytes (1.9%)
 - **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.7%)
 - **imvinlin/stockMarketSimulator**: 6,023 bytes (0.6%)
 - **imvinlin/Blind-Brush**: 1,004 bytes (0.1%)
 - **imvinlin/jd-tailor**: 893 bytes (0.1%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Java — 3.78% (270,510 bytes)
+## Java — 3.77% (270,510 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (92.7%)
 - **imvinlin/storage-systems**: 19,868 bytes (7.3%)
@@ -149,7 +149,7 @@
 
 - **imvinlin/vicctui**: 18,675 bytes (100.0%)
 
-## C# — 0.05% (3,221 bytes)
+## C# — 0.04% (3,221 bytes)
 
 - **imvinlin/esep-webhooks**: 3,221 bytes (100.0%)
 
