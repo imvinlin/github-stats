@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 30.69% (2,200,354 bytes)
+## JavaScript — 30.68% (2,200,354 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (34.0%)
@@ -37,7 +37,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## Python — 26.67% (1,911,939 bytes)
+## Python — 26.66% (1,911,939 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (54.9%)
 - **imvinlin/swarmTrading**: 234,926 bytes (12.3%)
@@ -78,10 +78,10 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 21.24% (1,522,584 bytes)
+## C++ — 21.28% (1,526,012 bytes)
 
-- **imvinlin/dsaProjects**: 1,359,936 bytes (89.3%)
-- **imvinlin/compProg**: 59,746 bytes (3.9%)
+- **imvinlin/dsaProjects**: 1,359,936 bytes (89.1%)
+- **imvinlin/compProg**: 63,174 bytes (4.1%)
 - **imvinlin/wad**: 59,746 bytes (3.9%)
 - **vinc3ntl1n/torrent**: 16,251 bytes (1.1%)
 - **imvinlin/codeforces**: 4,615 bytes (0.3%)
@@ -94,7 +94,7 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 13.69% (981,223 bytes)
+## TypeScript — 13.68% (981,223 bytes)
 
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (32.3%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (22.9%)
