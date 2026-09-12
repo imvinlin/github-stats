@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 36.54% (4,262,682 bytes)
+## TypeScript — 36.52% (4,262,682 bytes)
 
 - **imvinlin/last-semester-learning**: 2,460,470 bytes (57.7%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
@@ -23,7 +23,7 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 19.99% (2,331,718 bytes)
+## Python — 19.98% (2,331,718 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (45.0%)
 - **imvinlin/swarmTrading**: 234,926 bytes (10.1%)
@@ -70,7 +70,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 19.07% (2,224,833 bytes)
+## JavaScript — 19.06% (2,224,833 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (50.8%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (33.6%)
@@ -150,14 +150,14 @@
 
 - **imvinlin/atlas**: 126,665 bytes (100.0%)
 
-## Rust — 0.49% (56,673 bytes)
+## Rust — 0.52% (60,904 bytes)
 
-- **imvinlin/ai-native-os**: 51,534 bytes (90.9%)
-- **imvinlin/infusion**: 2,473 bytes (4.4%)
-- **imvinlin/cerulean**: 916 bytes (1.6%)
-- **imvinlin/vlinix**: 684 bytes (1.2%)
-- **imvinlin/commit-nudge**: 633 bytes (1.1%)
-- **imvinlin/pixiu**: 433 bytes (0.8%)
+- **imvinlin/ai-native-os**: 51,534 bytes (84.6%)
+- **imvinlin/infusion**: 6,704 bytes (11.0%)
+- **imvinlin/cerulean**: 916 bytes (1.5%)
+- **imvinlin/vlinix**: 684 bytes (1.1%)
+- **imvinlin/commit-nudge**: 633 bytes (1.0%)
+- **imvinlin/pixiu**: 433 bytes (0.7%)
 
 ## PHP — 0.26% (30,403 bytes)
 
