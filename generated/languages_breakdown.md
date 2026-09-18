@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 35.43% (4,262,682 bytes)
+## TypeScript — 34.83% (4,262,682 bytes)
 
 - **imvinlin/last-semester-learning**: 2,460,470 bytes (57.7%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
@@ -23,7 +23,7 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 19.38% (2,331,718 bytes)
+## Python — 19.05% (2,331,718 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (45.0%)
 - **imvinlin/swarmTrading**: 234,926 bytes (10.1%)
@@ -70,7 +70,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 18.49% (2,224,833 bytes)
+## JavaScript — 18.18% (2,224,833 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (50.8%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (33.6%)
@@ -110,7 +110,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## C++ — 12.90% (1,552,031 bytes)
+## C++ — 12.68% (1,552,031 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.6%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
@@ -127,7 +127,7 @@
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 - **imvinlin/gpu-computing**: 900 bytes (0.1%)
 
-## Go — 6.36% (765,088 bytes)
+## Go — 6.25% (765,088 bytes)
 
 - **imvinlin/marina**: 606,566 bytes (79.3%)
 - **imvinlin/lineage-cloud**: 108,311 bytes (14.2%)
@@ -141,22 +141,22 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (0.1%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.0%)
 
-## Rust — 3.49% (419,934 bytes)
+## Rust — 5.12% (627,066 bytes)
 
-- **imvinlin/lincompute**: 346,222 bytes (82.4%)
-- **imvinlin/ai-native-os**: 51,534 bytes (12.3%)
-- **imvinlin/infusion**: 19,512 bytes (4.6%)
-- **imvinlin/cerulean**: 916 bytes (0.2%)
-- **imvinlin/vlinix**: 684 bytes (0.2%)
-- **imvinlin/commit-nudge**: 633 bytes (0.2%)
+- **imvinlin/lincompute**: 553,354 bytes (88.2%)
+- **imvinlin/ai-native-os**: 51,534 bytes (8.2%)
+- **imvinlin/infusion**: 19,512 bytes (3.1%)
+- **imvinlin/cerulean**: 916 bytes (0.1%)
+- **imvinlin/vlinix**: 684 bytes (0.1%)
+- **imvinlin/commit-nudge**: 633 bytes (0.1%)
 - **imvinlin/pixiu**: 433 bytes (0.1%)
 
-## Java — 2.39% (287,784 bytes)
+## Java — 2.35% (287,784 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (87.1%)
 - **imvinlin/storage-systems**: 37,142 bytes (12.9%)
 
-## Kotlin — 1.05% (126,665 bytes)
+## Kotlin — 1.03% (126,665 bytes)
 
 - **imvinlin/atlas**: 126,665 bytes (100.0%)
 
@@ -164,7 +164,7 @@
 
 - **imvinlin/cis4930**: 30,403 bytes (100.0%)
 
-## Lua — 0.16% (18,675 bytes)
+## Lua — 0.15% (18,675 bytes)
 
 - **imvinlin/vicctui**: 18,675 bytes (100.0%)
 
