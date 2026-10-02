@@ -1,20 +1,20 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 30.86% (4,277,022 bytes)
+## TypeScript — 30.80% (4,264,774 bytes)
 
-- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.5%)
+- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.7%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
-- **ufsasehackathon/UF-SASEHacks-Website**: 316,501 bytes (7.4%)
+- **ufsasehackathon/UF-SASEHacks-Website-2026**: 304,253 bytes (7.1%)
 - **imvinlin/nian**: 226,775 bytes (5.3%)
-- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (5.2%)
-- **imvinlin/rb**: 138,946 bytes (3.2%)
+- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (5.3%)
+- **imvinlin/rb**: 138,946 bytes (3.3%)
 - **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (2.2%)
 - **imvinlin/davaplopers**: 66,992 bytes (1.6%)
 - **imvinlin/vincentlin-info**: 64,107 bytes (1.5%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (1.4%)
 - **imvinlin/Gator-Advisor**: 47,442 bytes (1.1%)
 - **imvinlin/imvinlin.github.io**: 46,814 bytes (1.1%)
-- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (1.0%)
+- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (1.1%)
 - **imvinlin/gator-registr**: 27,421 bytes (0.6%)
 - **imvinlin/restaurant**: 22,310 bytes (0.5%)
 - **imvinlin/senior-project**: 14,340 bytes (0.3%)
@@ -24,7 +24,7 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 25.17% (3,488,896 bytes)
+## Python — 25.20% (3,488,896 bytes)
 
 - **imvinlin/mst**: 1,140,632 bytes (32.7%)
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (30.1%)
@@ -73,7 +73,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 17.11% (2,371,865 bytes)
+## JavaScript — 17.13% (2,371,865 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (47.7%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (31.5%)
@@ -103,7 +103,7 @@
 - **imvinlin/Blind-Brush**: 654 bytes (0.0%)
 - **imvinlin/restaurant**: 654 bytes (0.0%)
 - **imvinlin/nian**: 634 bytes (0.0%)
-- **ufsasehackathon/UF-SASEHacks-Website**: 605 bytes (0.0%)
+- **ufsasehackathon/UF-SASEHacks-Website-2026**: 605 bytes (0.0%)
 - **imvinlin/UF-SASEHacks-Website**: 605 bytes (0.0%)
 - **imvinlin/imvinlin.github.io**: 604 bytes (0.0%)
 - **imvinlin/senior-project**: 548 bytes (0.0%)
@@ -117,7 +117,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## C++ — 11.20% (1,552,031 bytes)
+## C++ — 11.21% (1,552,031 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.6%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
@@ -149,7 +149,7 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (0.1%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.0%)
 
-## Rust — 5.97% (827,529 bytes)
+## Rust — 5.98% (827,529 bytes)
 
 - **imvinlin/lincompute**: 753,817 bytes (91.1%)
 - **imvinlin/ai-native-os**: 51,534 bytes (6.2%)
