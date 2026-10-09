@@ -1,10 +1,10 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 30.87% (4,282,549 bytes)
+## TypeScript — 30.88% (4,283,951 bytes)
 
-- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.5%)
+- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.4%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
-- **ufsasehackathon/UF-SASEHacks-Website-2026**: 304,253 bytes (7.1%)
+- **ufsasehackathon/UF-SASEHacks-Website-2026**: 305,655 bytes (7.1%)
 - **imvinlin/nian**: 226,775 bytes (5.3%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (5.2%)
 - **imvinlin/rb**: 138,946 bytes (3.2%)
@@ -149,7 +149,7 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (0.1%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.0%)
 
-## Rust — 5.97% (827,529 bytes)
+## Rust — 5.96% (827,529 bytes)
 
 - **imvinlin/lincompute**: 753,817 bytes (91.1%)
 - **imvinlin/ai-native-os**: 51,534 bytes (6.2%)
