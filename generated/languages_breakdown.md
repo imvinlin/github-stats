@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 30.88% (4,283,951 bytes)
+## TypeScript — 30.85% (4,283,951 bytes)
 
 - **imvinlin/last-semester-learning**: 2,460,470 bytes (57.4%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
@@ -24,17 +24,17 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 25.21% (3,497,233 bytes)
+## Python — 25.27% (3,509,386 bytes)
 
-- **imvinlin/mst**: 1,140,632 bytes (32.6%)
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (30.0%)
+- **imvinlin/mst**: 1,140,632 bytes (32.5%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (29.9%)
 - **imvinlin/swarmTrading**: 234,926 bytes (6.7%)
 - **imvinlin/scholia**: 165,054 bytes (4.7%)
 - **UF-SASE-Web-Team/AI-Advisor**: 103,731 bytes (3.0%)
 - **imvinlin/wc26-model**: 91,581 bytes (2.6%)
 - **imvinlin/networks-exam-study**: 79,237 bytes (2.3%)
 - **imvinlin/Gator-Advisor**: 62,000 bytes (1.8%)
-- **imvinlin/davaplopers**: 57,886 bytes (1.7%)
+- **imvinlin/davaplopers**: 57,886 bytes (1.6%)
 - **sean293/playing-card-object-detection**: 50,963 bytes (1.5%)
 - **imvinlin/playing-card-object-detection**: 48,820 bytes (1.4%)
 - **imvinlin/ad-load-performance-testing**: 40,770 bytes (1.2%)
@@ -42,16 +42,16 @@
 - **imvinlin/playground**: 35,609 bytes (1.0%)
 - **imvinlin/placeGPT**: 31,088 bytes (0.9%)
 - **lazysince87/SASEPass**: 28,463 bytes (0.8%)
+- **imvinlin/senior-project**: 24,773 bytes (0.7%)
 - **imvinlin/github-stats**: 24,055 bytes (0.7%)
 - **imvinlin/robotVoice**: 21,763 bytes (0.6%)
 - **imvinlin/gator-registr**: 18,800 bytes (0.5%)
 - **usharma123/ResumeReader**: 17,578 bytes (0.5%)
 - **imvinlin/aad-project-m2**: 16,455 bytes (0.5%)
-- **imvinlin/system-design-hotline**: 15,781 bytes (0.5%)
+- **imvinlin/system-design-hotline**: 15,781 bytes (0.4%)
 - **imvinlin/finalSetBro**: 15,495 bytes (0.4%)
 - **imvinlin/lincompute**: 14,661 bytes (0.4%)
 - **imvinlin/crucible**: 12,976 bytes (0.4%)
-- **imvinlin/senior-project**: 12,620 bytes (0.4%)
 - **imvinlin/compProg**: 10,622 bytes (0.3%)
 - **imvinlin/patentAnalyze**: 9,246 bytes (0.3%)
 - **imvinlin/ianBot**: 8,905 bytes (0.3%)
@@ -73,7 +73,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 17.10% (2,371,865 bytes)
+## JavaScript — 17.08% (2,371,865 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (47.7%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (31.5%)
@@ -117,7 +117,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## C++ — 11.19% (1,552,031 bytes)
+## C++ — 11.18% (1,552,031 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.6%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
