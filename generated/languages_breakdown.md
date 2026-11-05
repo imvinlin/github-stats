@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 30.93% (4,301,156 bytes)
+## TypeScript — 30.95% (4,304,956 bytes)
 
 - **imvinlin/last-semester-learning**: 2,460,470 bytes (57.2%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
@@ -12,9 +12,9 @@
 - **imvinlin/davaplopers**: 66,992 bytes (1.6%)
 - **imvinlin/vincentlin-info**: 64,107 bytes (1.5%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (1.4%)
+- **imvinlin/senior-project**: 49,901 bytes (1.2%)
 - **imvinlin/Gator-Advisor**: 47,442 bytes (1.1%)
 - **imvinlin/imvinlin.github.io**: 46,814 bytes (1.1%)
-- **imvinlin/senior-project**: 46,101 bytes (1.1%)
 - **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (1.0%)
 - **imvinlin/gator-registr**: 27,421 bytes (0.6%)
 - **imvinlin/restaurant**: 22,310 bytes (0.5%)
@@ -24,7 +24,7 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 25.26% (3,512,787 bytes)
+## Python — 25.25% (3,512,787 bytes)
 
 - **imvinlin/mst**: 1,140,632 bytes (32.5%)
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (29.9%)
