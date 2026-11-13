@@ -1,18 +1,18 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 30.95% (4,304,956 bytes)
+## TypeScript — 31.07% (4,336,532 bytes)
 
-- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.2%)
-- **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
-- **ufsasehackathon/UF-SASEHacks-Website-2026**: 308,874 bytes (7.2%)
-- **imvinlin/nian**: 226,775 bytes (5.3%)
+- **imvinlin/last-semester-learning**: 2,460,470 bytes (56.7%)
+- **imvinlin/sylven-ai**: 406,897 bytes (9.4%)
+- **ufsasehackathon/UF-SASEHacks-Website-2026**: 308,874 bytes (7.1%)
+- **imvinlin/nian**: 226,775 bytes (5.2%)
 - **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (5.2%)
 - **imvinlin/rb**: 138,946 bytes (3.2%)
 - **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (2.2%)
-- **imvinlin/davaplopers**: 66,992 bytes (1.6%)
+- **imvinlin/senior-project**: 81,477 bytes (1.9%)
+- **imvinlin/davaplopers**: 66,992 bytes (1.5%)
 - **imvinlin/vincentlin-info**: 64,107 bytes (1.5%)
 - **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (1.4%)
-- **imvinlin/senior-project**: 49,901 bytes (1.2%)
 - **imvinlin/Gator-Advisor**: 47,442 bytes (1.1%)
 - **imvinlin/imvinlin.github.io**: 46,814 bytes (1.1%)
 - **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (1.0%)
@@ -24,25 +24,25 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 25.25% (3,512,787 bytes)
+## Python — 25.27% (3,526,642 bytes)
 
-- **imvinlin/mst**: 1,140,632 bytes (32.5%)
-- **sophieqli/VNSN-Project**: 1,048,978 bytes (29.9%)
+- **imvinlin/mst**: 1,140,632 bytes (32.3%)
+- **sophieqli/VNSN-Project**: 1,048,978 bytes (29.7%)
 - **imvinlin/swarmTrading**: 234,926 bytes (6.7%)
 - **imvinlin/scholia**: 165,054 bytes (4.7%)
-- **UF-SASE-Web-Team/AI-Advisor**: 103,731 bytes (3.0%)
+- **UF-SASE-Web-Team/AI-Advisor**: 103,731 bytes (2.9%)
 - **imvinlin/wc26-model**: 91,581 bytes (2.6%)
-- **imvinlin/networks-exam-study**: 79,237 bytes (2.3%)
+- **imvinlin/networks-exam-study**: 79,237 bytes (2.2%)
 - **imvinlin/Gator-Advisor**: 62,000 bytes (1.8%)
 - **imvinlin/davaplopers**: 57,886 bytes (1.6%)
-- **sean293/playing-card-object-detection**: 50,963 bytes (1.5%)
+- **sean293/playing-card-object-detection**: 50,963 bytes (1.4%)
 - **imvinlin/playing-card-object-detection**: 48,820 bytes (1.4%)
+- **imvinlin/senior-project**: 42,029 bytes (1.2%)
 - **imvinlin/ad-load-performance-testing**: 40,770 bytes (1.2%)
 - **imvinlin/WikiSearch**: 39,554 bytes (1.1%)
 - **imvinlin/playground**: 35,609 bytes (1.0%)
 - **imvinlin/placeGPT**: 31,088 bytes (0.9%)
 - **lazysince87/SASEPass**: 28,463 bytes (0.8%)
-- **imvinlin/senior-project**: 28,174 bytes (0.8%)
 - **imvinlin/github-stats**: 24,055 bytes (0.7%)
 - **imvinlin/robotVoice**: 21,763 bytes (0.6%)
 - **imvinlin/gator-registr**: 18,800 bytes (0.5%)
@@ -73,7 +73,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 17.05% (2,371,865 bytes)
+## JavaScript — 16.99% (2,371,865 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (47.7%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (31.5%)
@@ -117,7 +117,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## C++ — 11.16% (1,552,031 bytes)
+## C++ — 11.12% (1,552,031 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.6%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
@@ -134,7 +134,7 @@
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 - **imvinlin/gpu-computing**: 900 bytes (0.1%)
 
-## Go — 6.20% (861,905 bytes)
+## Go — 6.18% (861,905 bytes)
 
 - **imvinlin/marina**: 606,566 bytes (70.4%)
 - **imvinlin/lineage-cloud**: 108,311 bytes (12.6%)
@@ -149,7 +149,7 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (0.1%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.0%)
 
-## Rust — 5.95% (827,529 bytes)
+## Rust — 5.93% (827,529 bytes)
 
 - **imvinlin/lincompute**: 753,817 bytes (91.1%)
 - **imvinlin/ai-native-os**: 51,534 bytes (6.2%)
@@ -159,7 +159,7 @@
 - **imvinlin/commit-nudge**: 633 bytes (0.1%)
 - **imvinlin/pixiu**: 433 bytes (0.1%)
 
-## Java — 2.07% (287,784 bytes)
+## Java — 2.06% (287,784 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (87.1%)
 - **imvinlin/storage-systems**: 37,142 bytes (12.9%)
